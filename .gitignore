@@ -1,0 +1,10 @@
+# Challenge data and generated prediction files are large and reproducible.
+/dataset/
+/output/
+
+# Original bundles and duplicate extracted copies.
+*.zip
+/Jagan/
+/Jagan_extract/
+/submission_package/
+/submission_package_extract/
